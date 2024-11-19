@@ -1,1 +1,3 @@
 # Food-ordering-App-using-MERN
+
+A food ordering app built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) is a full-stack web application that allows users to browse restaurant menus, customize their orders, and place orders for delivery or pickup. The app’s front end, developed with React.js, provides an interactive and dynamic user interface where customers can explore food categories, view detailed descriptions and images, and manage their carts. The back end, built with Node.js and Express.js, handles user authentication, order processing, and communication with the MongoDB database for storing user data, order history, and menu items. The app ensures a smooth user experience with real-time updates and secure payment options.
